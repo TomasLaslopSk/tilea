@@ -356,8 +356,8 @@ section{
 }
 
 .pricing .box-container .box{
-    height: 450px;
-    width: 500px;
+    height: 400px;
+    width: 320px;
     margin: 20px 40px;
     border-radius: 10px;
     box-shadow: 0 3px 5px rgba(0,0,0,.9);
@@ -418,7 +418,7 @@ section{
 
 .pricing .box-container .box ul li{
     text-align: left;
-    font-size: 20px;
+    font-size: 12px;
     padding-left: 45px;
     margin: 20px auto;
     color: var(--white);
