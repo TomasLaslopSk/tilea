@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="refresh" content="0;url=https://tilea.sk" />
+    <script>
+      window.location.href = "https://tilea.sk";
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kaderníctvo Tilea Hair</title>
     <link rel="canonical" href="https://tilea.sk" />
